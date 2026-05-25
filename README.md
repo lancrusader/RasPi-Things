@@ -14,7 +14,7 @@ Both versions will pull the following:
   * Architecture
   * Uptime
 * Temperature
-* Memory Usage (free -h)
+* Memory Usage (`free -h`)
 * Disk Usage
 * Network info
   * Local IP & Gateway
