@@ -19,11 +19,11 @@ Both versions will pull the following:
 * Network info
   * Local IP & Gateway
 * DNS Test
-  * Provides a (much) shortened 'dig' reply to 'google.com'
+  * Provides a (much) shortened `dig` reply to `google.com`
     * Provides google.com resolved IP & DNS server address (useful for ensuring Unbound is working)
 * CPU Load info
 * Top 6 processes
   
 Non-Basic will pull additionally:
-* PiHole status via 'pihole status'
-* Unbound status via 'service unbound status'
+* PiHole status via `pihole status`
+* Unbound status via `service unbound status`
