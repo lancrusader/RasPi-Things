@@ -1,7 +1,7 @@
 # RasPi
 Collection of things for use on Raspberry Pi
 
-##get_status.sh and get_status_basic.sh##
+## get_status.sh and get_status_basic.sh
 Scripts to pull information from running Pi.
 The basic version does not include informtaion for PiHole or Unbound.
 Both versions will pull the following 
